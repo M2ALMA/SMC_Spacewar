@@ -1,0 +1,99 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_21 (Oracle Corporation)
+
+Name: src/spacewar/Timer.java
+SHA-256-Digest: kPru7P9GCcTyLlIM1xUm5X87tYQMyzo9pWyqMrKjq54=
+
+Name: src/spacewar/GameSynchronization.aj
+SHA-256-Digest: XjyYAX1bvOxAfaD1GKS0LI0VMDzLsQCs8o1iZDaDuX4=
+
+Name: src/spacewar/Registry.aj
+SHA-256-Digest: X25o0supECtHEeDn4gMVG4KIQFSYP9hO9hBCYvsYtSY=
+
+Name: demo.ajproperties
+SHA-256-Digest: 9v/EQlDMADQlwex3NWlEF0r7aT1gHmbxMGTxiERPsF4=
+
+Name: src/spacewar/Pilot.java
+SHA-256-Digest: o+WV9TCNhVdvi7c/s5bPKs3ntbm9I69l7KjnntVYDtI=
+
+Name: src/coordination/Exclusion.java
+SHA-256-Digest: bF8A0u1ODlXKKFJJN08lOgbjgXiypbfdYfsohVXzh9g=
+
+Name: src/spacewar/SWFrame.java
+SHA-256-Digest: OYv7uXgIviCLHXtmqD0zp+wwz/x2++kB1rOeh4xyedg=
+
+Name: src/coordination/Mutex.java
+SHA-256-Digest: Z4sYLvrF8hjfBWmTCTLkh0LsWMRZEBTQQJv7h9HO0/0=
+
+Name: src/coordination/Condition.java
+SHA-256-Digest: uUQbrZlW9QeADMve9anjRDkiJciaAVN3B+WjzZsXIes=
+
+Name: src/spacewar/Ship.aj
+SHA-256-Digest: m+Rkk0100fnG+JXnk974agbm7wntN5gbo2W1JMp06BY=
+
+Name: src/spacewar/EnergyPacket.java
+SHA-256-Digest: DA8OpH8nEcBA9sZ2GWP4OClZ4fDMTZH9ITLNfQTVpvU=
+
+Name: src/spacewar/Bullet.java
+SHA-256-Digest: xBUmmDAfo48nXhj2G7eaVUOTq8KIz9ahCKS87rzyk5M=
+
+Name: src/coordination/CoordinationAction.java
+SHA-256-Digest: sanYhh5OKERV8qxUCnufiaDTdFP7BNX80KBqu+KJJGY=
+
+Name: .classpath
+SHA-256-Digest: 0yGH9ws7n9V0OY1nxRyE8c6gBcZGZUkYu8x+WBB+IcM=
+
+Name: README.html
+SHA-256-Digest: 2NzK/Xh47JHp0lW/OSgxmBv6vPU/tnCcf2d0TXIMahk=
+
+Name: src/spacewar/SpaceObject.java
+SHA-256-Digest: 9GViRlyBkgj38ORefoAjY3r1ntrgZJCObr0gIjtI0WI=
+
+Name: src/spacewar/EnergyPacketProducer.java
+SHA-256-Digest: Zu7fqzLye1ytW2yjqugPPdglnOlK/V8CWKuCrvy22oc=
+
+Name: src/coordination/Coordinator.aj
+SHA-256-Digest: F5APzlHmugXyasuT2jwxkiYvYofuc6bsqzyJfc568H8=
+
+Name: src/coordination/TimeoutException.java
+SHA-256-Digest: f+yyL8slGzBmlWBuT2joYXYDWvn3FpmTicROw8z0b5Q=
+
+Name: src/spacewar/Display2.aj
+SHA-256-Digest: ktTOgj0QLY5U+72C221jDpnCQ8Q8xyd53Go/cdBXhPk=
+
+Name: src/spacewar/Debug.aj
+SHA-256-Digest: wMbvvOASxQERg4OO2zu6iqyXN7/qFZtt9C1D18zI4jg=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: G2hFTVPngfh5NUf96Pyy87A7XIE083udjEBFy4pUc/M=
+
+Name: src/coordination/MethodState.java
+SHA-256-Digest: nSYL5SdRAMdTaXSKnNp+xyAKOf5TWKTIEU8Rct5ixM8=
+
+Name: src/spacewar/EnsureShipIsAlive.aj
+SHA-256-Digest: csmAbqUuXgqOGpIzLKncNbyQoOgXC/NlIhmvqRE3csk=
+
+Name: src/spacewar/Game.java
+SHA-256-Digest: c37ZiDzljlCDLGuURwr3eL44cmGhUCWNYtmTE70xpjY=
+
+Name: src/coordination/Selfex.java
+SHA-256-Digest: i8bFfg3clEuxHhsAr/qMepVOdlsyT44e0KihqAJ49yw=
+
+Name: src/spacewar/RegistrySynchronization.aj
+SHA-256-Digest: k859WCzur/2REpSPu2Bz/7f1h1Y15hdKEbccVzzWcu0=
+
+Name: src/spacewar/Display.aj
+SHA-256-Digest: urO/y5CDOaIjTjOebItmTFkTIVzvDsgqR1VLwki/EZc=
+
+Name: src/spacewar/Display1.aj
+SHA-256-Digest: 3Ab/FKduwSvw+QX0sA5tswyVcBeTXNfu0/3712Ds66s=
+
+Name: debug.ajproperties
+SHA-256-Digest: UZ5ZHdFfdFESbGcE6lZOvl2Bg7e8lmS5fIWtNZzcHYM=
+
+Name: src/spacewar/Player.java
+SHA-256-Digest: QT2JjDzSvytXZcWNipPs9m5I+cHUT9AVBu/atznnUgM=
+
+Name: src/spacewar/Robot.java
+SHA-256-Digest: 2VXoZO8TYBvyotjsd2TLBdQ1rRvntbwSyAps2hCUr6U=
+
